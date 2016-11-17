@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://myans.github.io
+title: myans
+paginate: 30
